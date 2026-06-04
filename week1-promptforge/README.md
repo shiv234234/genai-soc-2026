@@ -12,18 +12,18 @@ Explains complex concepts clearly to undergraduates, avoiding unnecessary jargon
 below are some screenshots  
 
 screenshot 1:  
-![image](screenshots\te1.png)
+![image](screenshots/te1.png)
 screenshot 2:
-![image](screenshots\te2.png)
+![image](screenshots/te2.png)
 ### ⚖️ Debate Coach
 For any topic, presents the strongest arguments for both the Pro and Con sides objectively.  
 
 below are some screenshots  
 
 screenshot 1:  
-![image](screenshots\dc1.png)
+![image](screenshots/dc1.png)
 screenshot 2:
-![image](screenshots\dc2.png)
+![image](screenshots/dc2.png)
 
 ### 🔍 Code Reviewer
 Identifies bugs and suggests improvements. Returns structured output in this format:
@@ -35,9 +35,9 @@ Rendered as a formatted Markdown report in the UI.
 below are some screenshots  
 
 screenshot 1:  
-![image](screenshots\cr1.png)
+![image](screenshots/cr1.png)
 screenshot 2:
-![image](screenshots\cr2.png)
+![image](screenshots/cr2.png)
 
 ### ✍️ Creative Writer
 Uses a vivid, descriptive, and narrative style with sensory details.  
@@ -45,9 +45,9 @@ Uses a vivid, descriptive, and narrative style with sensory details.
 below are some screenshots  
 
 screenshot 1:  
-![image](screenshots\cw1.png)
+![image](screenshots/cw1.png)
 screenshot 2:
-![image](screenshots\cw2.png)
+![image](screenshots/cw2.png)
 
 ---
 
